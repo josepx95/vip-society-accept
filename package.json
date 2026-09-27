@@ -1,0 +1,9 @@
+{
+  "name": "vip-society-accept",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One-tap Accept / Decline for VIP Society vendor booking emails.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node --test test/*.test.js" },
+  "engines": { "node": ">=20" }
+}
